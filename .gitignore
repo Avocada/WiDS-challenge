@@ -1,0 +1,5 @@
+# Do not include virtual env files
+env/
+
+# Do not include train data
+train_data.csv.zip
